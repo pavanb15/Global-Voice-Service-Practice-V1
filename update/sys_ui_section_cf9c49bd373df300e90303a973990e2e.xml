@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Creation Statistics" section_id="cf9c49bd373df300e90303a973990e2e" sys_domain="global" table="x_359848_global_vo_step1" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-03 06:41:16</sys_created_on>
+            <sys_id>d39c49bd373df300e90303a973990e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Creation Statistics" display_value="Creation Statistics" name="x_359848_global_vo_step1" sys_domain="global" view="Default view">cf9c49bd373df300e90303a973990e2e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-03 06:41:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-03 06:41:17</sys_created_on>
+            <sys_id>5b9c49bd373df300e90303a973990e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Creation Statistics" display_value="Creation Statistics" name="x_359848_global_vo_step1" sys_domain="global" view="Default view">cf9c49bd373df300e90303a973990e2e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-03 06:41:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-03 06:41:17</sys_created_on>
+            <sys_id>db9c49bd373df300e90303a973990e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Creation Statistics" display_value="Creation Statistics" name="x_359848_global_vo_step1" sys_domain="global" view="Default view">cf9c49bd373df300e90303a973990e2e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-03 06:41:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-03 06:41:17</sys_created_on>
+            <sys_id>5f9c49bd373df300e90303a973990e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Creation Statistics" display_value="Creation Statistics" name="x_359848_global_vo_step1" sys_domain="global" view="Default view">cf9c49bd373df300e90303a973990e2e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-03 06:41:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-03 06:41:17</sys_created_on>
+            <sys_id>df9c49bd373df300e90303a973990e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Creation Statistics" display_value="Creation Statistics" name="x_359848_global_vo_step1" sys_domain="global" view="Default view">cf9c49bd373df300e90303a973990e2e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-03 06:41:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-03 06:41:17</sys_created_on>
+            <sys_id>539c49bd373df300e90303a973990e47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Creation Statistics" display_value="Creation Statistics" name="x_359848_global_vo_step1" sys_domain="global" view="Default view">cf9c49bd373df300e90303a973990e2e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-03 06:41:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Creation Statistics</caption>
+            <header>false</header>
+            <name>x_359848_global_vo_step1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-03 06:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf9c49bd373df300e90303a973990e2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Creation Statistics</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Global Voice Service" source="x_359848_global_vo">2c4f052037bd3300e90303a973990ede</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global Voice Service">2c4f052037bd3300e90303a973990ede</sys_scope>
+            <sys_update_name>sys_ui_section_cf9c49bd373df300e90303a973990e2e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-03 06:41:16</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

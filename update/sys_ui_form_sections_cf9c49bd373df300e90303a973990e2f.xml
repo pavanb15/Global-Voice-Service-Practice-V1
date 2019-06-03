@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="cf9c49bd373df300e90303a973990e2f" sys_domain="global" table="x_359848_global_vo_step1" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-03 06:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>539c49bd373df300e90303a973990e32</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_359848_global_vo_step1" name="x_359848_global_vo_step1" sys_domain="global" view="Default view">cf9c49bd373df300e90303a973990e2f</sys_ui_form>
+            <sys_ui_section caption="Employee Search" display_value="Employee Search" name="x_359848_global_vo_step1" sys_domain="global" view="Default view">ac17b17437797300e90303a973990e7c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-03 06:41:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-03 06:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f9c49bd373df300e90303a973990e32</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_359848_global_vo_step1" name="x_359848_global_vo_step1" sys_domain="global" view="Default view">cf9c49bd373df300e90303a973990e2f</sys_ui_form>
+            <sys_ui_section caption="Creation Statistics" display_value="Creation Statistics" name="x_359848_global_vo_step1" sys_domain="global" view="Default view">cf9c49bd373df300e90303a973990e2e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-03 06:41:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_359848_global_vo_step1</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-03 06:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf9c49bd373df300e90303a973990e2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_359848_global_vo_step1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Global Voice Service" source="x_359848_global_vo">2c4f052037bd3300e90303a973990ede</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Global Voice Service">2c4f052037bd3300e90303a973990ede</sys_scope>
+            <sys_update_name>sys_ui_form_sections_cf9c49bd373df300e90303a973990e2f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-03 06:41:16</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

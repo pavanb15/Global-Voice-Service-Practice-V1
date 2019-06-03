@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Step1" max_length="40" name="x_359848_global_vo_step1" type="collection"/>
+    <element attributes="hasLabels=true" label="Step1" max_length="40" name="x_359848_global_vo_step1" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="myself" label="Who is this request for" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Myself" sequence="0" value="myself"/>
+                <element inactive_on_update="false" label="Another Employee" sequence="1" value="another employee"/>
+            </choice>
+        </element>
+        <element default="B. Pavan Kumar" label="Name" max_length="40" name="u_translated_text_4" type="translated_text"/>
+        <element default="06685M744" label="Serial Number" max_length="40" name="u_translated_text_8" type="translated_text"/>
+    </element>
 </database>
